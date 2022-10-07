@@ -1,4 +1,4 @@
-,Country,State,City,Station name,Timestamp(UTC),PM2.5,US AQI,Main pollutant,PM10,SO2,CO,NO2,Ozone
+,Country,State,City,StationName,Timestamp,PM25,AQI,MainPollutant,PM10,SO2,CO,NO2,Ozone
 0,USA,Pennsylvania,Avalon,Avalon,2021-08-21,15.21,58,PM2.5,,,,,
 1,USA,Pennsylvania,Avalon,Avalon,2021-09-02,6.58,27,PM2.5,,,,,
 2,USA,Pennsylvania,Avalon,Avalon,2021-09-21,9.5,39,PM2.5,,,,,
